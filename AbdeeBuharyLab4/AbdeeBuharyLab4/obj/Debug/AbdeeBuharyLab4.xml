@@ -1,0 +1,43 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AbdeeBuharyLab4
+</name>
+</assembly>
+<members>
+<member name="T:AbdeeBuharyLab4.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:AbdeeBuharyLab4.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:AbdeeBuharyLab4.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:AbdeeBuharyLab4.frmCarInventory">
+ <summary>
+ Name:  Abdee Buhary
+ Date:  12-July-2019
+ Description:  Windows form that keeps track of Inventory    
+ </summary>
+</member>
+<member name="M:AbdeeBuharyLab4.clsVehicle.#ctor(System.String,System.String,System.String,System.String,System.Boolean)">
+ <summary>
+ Constuctor - Parameterized - creates a new vehicle object
+ </summary>
+ <param name="make"></param>
+ <param name="model"></param>
+ <param name="year"></param>
+ <param name="price"></param>
+ <param name="newStatus"></param>
+</member>
+</members>
+</doc>

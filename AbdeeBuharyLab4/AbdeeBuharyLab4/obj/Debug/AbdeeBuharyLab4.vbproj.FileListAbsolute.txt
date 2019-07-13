@@ -1,0 +1,12 @@
+C:\Users\abdee\OneDrive\Desktop\Semester 3\NETD\AbdeeBuharyLab4\AbdeeBuharyLab4\obj\Debug\AbdeeBuharyLab4.vbprojAssemblyReference.cache
+C:\Users\abdee\OneDrive\Desktop\Semester 3\NETD\AbdeeBuharyLab4\AbdeeBuharyLab4\obj\Debug\AbdeeBuharyLab4.Resources.resources
+C:\Users\abdee\OneDrive\Desktop\Semester 3\NETD\AbdeeBuharyLab4\AbdeeBuharyLab4\obj\Debug\AbdeeBuharyLab4.frmCarInventory.resources
+C:\Users\abdee\OneDrive\Desktop\Semester 3\NETD\AbdeeBuharyLab4\AbdeeBuharyLab4\obj\Debug\AbdeeBuharyLab4.vbproj.GenerateResource.cache
+C:\Users\abdee\OneDrive\Desktop\Semester 3\NETD\AbdeeBuharyLab4\AbdeeBuharyLab4\obj\Debug\AbdeeBuharyLab4.vbproj.CoreCompileInputs.cache
+C:\Users\abdee\OneDrive\Desktop\Semester 3\NETD\AbdeeBuharyLab4\AbdeeBuharyLab4\bin\Debug\AbdeeBuharyLab4.exe.config
+C:\Users\abdee\OneDrive\Desktop\Semester 3\NETD\AbdeeBuharyLab4\AbdeeBuharyLab4\bin\Debug\AbdeeBuharyLab4.exe
+C:\Users\abdee\OneDrive\Desktop\Semester 3\NETD\AbdeeBuharyLab4\AbdeeBuharyLab4\bin\Debug\AbdeeBuharyLab4.pdb
+C:\Users\abdee\OneDrive\Desktop\Semester 3\NETD\AbdeeBuharyLab4\AbdeeBuharyLab4\bin\Debug\AbdeeBuharyLab4.xml
+C:\Users\abdee\OneDrive\Desktop\Semester 3\NETD\AbdeeBuharyLab4\AbdeeBuharyLab4\obj\Debug\AbdeeBuharyLab4.exe
+C:\Users\abdee\OneDrive\Desktop\Semester 3\NETD\AbdeeBuharyLab4\AbdeeBuharyLab4\obj\Debug\AbdeeBuharyLab4.xml
+C:\Users\abdee\OneDrive\Desktop\Semester 3\NETD\AbdeeBuharyLab4\AbdeeBuharyLab4\obj\Debug\AbdeeBuharyLab4.pdb
